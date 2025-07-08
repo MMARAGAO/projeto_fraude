@@ -48,7 +48,7 @@ projeto_fraude/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/projeto-fraude.git
+git clone https://github.com/MMARAGAO/projeto_fraude.git
 cd projeto-fraude
 
 # Instale as dependências
@@ -374,7 +374,7 @@ O modelo atual demonstra comportamento **conservador**, priorizando a redução 
 - Debug mode ativo para desenvolvimento
 - Debugger PIN disponível no console
 
-## 📞 Suporte
+## ❔ Suporte
 
 Para dúvidas ou problemas:
 
